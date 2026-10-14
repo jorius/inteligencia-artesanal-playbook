@@ -1,0 +1,15 @@
+# Secrets — never commit Open Payments keys or environment files
+.env
+.env.*
+*.key
+private.key
+
+# Dependencies and build output (if tooling is added later)
+node_modules/
+dist/
+
+# OS and editor files
+.DS_Store
+.idea/
+.vscode/
+*.log
