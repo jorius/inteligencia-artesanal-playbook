@@ -14,6 +14,7 @@ We build a working prototype on **Open Payments** that solves a real financial p
 - [AI_SUBS.md](AI_SUBS.md): AI plans per member and how we split agent work
 - [TECH_STACK.md](TECH_STACK.md): constraints, options, how we decide, setup before Friday
 - [WINNERS.md](WINNERS.md): the winners of every past edition up close (repos, pitches, judges' own words) and the official 0–5 scoring guide
+- [COMPETITION.md](COMPETITION.md): how crowded each kind of idea is across past hackathon repos, and Medellín teams with public repos
 - [PROBLEMS.md](PROBLEMS.md): what past Interledger hackathons built (with repos), what wins, how the judges will read us, and candidate problems for Colombia with a scorecard
 - [FRAMEWORK.md](FRAMEWORK.md): how we choose the problem, scope it and build it
 - [PITCH.md](PITCH.md): 5-minute structure, demo script, rehearsal checklist

@@ -14,6 +14,7 @@ Construimos un prototipo funcional sobre **Open Payments** a partir de un proble
 - [AI_SUBS.md](AI_SUBS.md): planes de IA por integrante y cómo repartimos el trabajo de agentes
 - [TECH_STACK.md](TECH_STACK.md): restricciones, opciones, cómo decidimos, setup antes del viernes
 - [WINNERS.md](WINNERS.md): los ganadores de cada edición de cerca (repos, pitches, lo que dicen los jurados) y la guía oficial de puntaje de 0 a 5
+- [COMPETITION.md](COMPETITION.md): qué tan saturado está cada tipo de idea según los repos de hackathons anteriores, y equipos de Medellín con repos públicos
 - [PROBLEMS.md](PROBLEMS.md): qué construyeron los hackathons anteriores de Interledger (con repos), qué gana, cómo nos va a leer el jurado, y problemas candidatos para Colombia con una tabla de puntajes
 - [FRAMEWORK.md](FRAMEWORK.md): cómo elegimos el problema, lo acotamos y lo construimos
 - [PITCH.md](PITCH.md): estructura de 5 minutos, guion del demo, checklist de ensayo
