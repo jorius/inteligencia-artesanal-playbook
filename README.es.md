@@ -13,7 +13,8 @@ Construimos un prototipo funcional sobre **Open Payments** a partir de un proble
 - [ROLES.md](ROLES.md): descripción de roles, asignaciones, checkpoints del evento
 - [AI_SUBS.md](AI_SUBS.md): planes de IA por integrante y cómo repartimos el trabajo de agentes
 - [TECH_STACK.md](TECH_STACK.md): restricciones, opciones, cómo decidimos, setup antes del viernes
-- [PROBLEMS.md](PROBLEMS.md): qué construyeron los hackathons anteriores de Interledger (con repos), qué gana, y problemas candidatos para Colombia
+- [WINNERS.md](WINNERS.md): los ganadores de cada edición de cerca (repos, pitches, lo que dicen los jurados) y la guía oficial de puntaje de 0 a 5
+- [PROBLEMS.md](PROBLEMS.md): qué construyeron los hackathons anteriores de Interledger (con repos), qué gana, cómo nos va a leer el jurado, y problemas candidatos para Colombia con una tabla de puntajes
 - [FRAMEWORK.md](FRAMEWORK.md): cómo elegimos el problema, lo acotamos y lo construimos
 - [PITCH.md](PITCH.md): estructura de 5 minutos, guion del demo, checklist de ensayo
 - [AI_USAGE.md](AI_USAGE.md) y [prompts/](prompts/): declaración de uso de IA que exigen los organizadores
@@ -24,7 +25,7 @@ Construimos un prototipo funcional sobre **Open Payments** a partir de un proble
 | --- | --- |
 | Equipo | 4 a 5 personas, presencial, los dos días |
 | Requisito técnico | El proyecto debe integrar la API de Open Payments; cualquier lenguaje o stack |
-| Tiempo real de código | ~9 h: vie 10:30–14:00 y 15:00–17:30, sáb 08:00–11:00 |
+| Tiempo real de código | ~9 h en Ruta N: vie 10:30–14:00 y 15:00–17:30, sáb 08:00–11:00, más trabajo opcional de noche desde casa con mentores virtuales |
 | Code freeze | **Sábado 11:00** |
 | Entrega | Slides, link al demo, repo público de GitHub (todo en `main`), video del flujo de pago |
 | Pitch | 5 minutos por equipo (Ronda 1, y Ronda 2 si pasamos) |

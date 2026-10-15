@@ -13,7 +13,8 @@ We build a working prototype on **Open Payments** that solves a real financial p
 - [ROLES.md](ROLES.md): role descriptions, assignments, event-day checkpoints
 - [AI_SUBS.md](AI_SUBS.md): AI plans per member and how we split agent work
 - [TECH_STACK.md](TECH_STACK.md): constraints, options, how we decide, setup before Friday
-- [PROBLEMS.md](PROBLEMS.md): what past Interledger hackathons built (with repos), what wins, and candidate problems for Colombia
+- [WINNERS.md](WINNERS.md): the winners of every past edition up close (repos, pitches, judges' own words) and the official 0–5 scoring guide
+- [PROBLEMS.md](PROBLEMS.md): what past Interledger hackathons built (with repos), what wins, how the judges will read us, and candidate problems for Colombia with a scorecard
 - [FRAMEWORK.md](FRAMEWORK.md): how we choose the problem, scope it and build it
 - [PITCH.md](PITCH.md): 5-minute structure, demo script, rehearsal checklist
 - [AI_USAGE.md](AI_USAGE.md) and [prompts/](prompts/): AI disclosure required by the organizers
@@ -24,7 +25,7 @@ We build a working prototype on **Open Payments** that solves a real financial p
 | --- | --- |
 | Team | 4 to 5 people, in person, both days |
 | Technical requirement | The project must integrate the Open Payments API; any language or stack |
-| Actual coding time | ~9 h: Fri 10:30–14:00 and 15:00–17:30, Sat 08:00–11:00 |
+| Actual coding time | ~9 h at Ruta N: Fri 10:30–14:00 and 15:00–17:30, Sat 08:00–11:00, plus optional overnight hacking from home with virtual mentors |
 | Code freeze | **Saturday 11:00** |
 | Submission | Slides, demo link, public GitHub repo (everything on `main`), video of the payment flow |
 | Pitch | 5 minutes per team (Round 1, and Round 2 if we advance) |

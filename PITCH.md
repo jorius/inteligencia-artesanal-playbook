@@ -8,7 +8,7 @@ Five minutes per team, in front of at least two judges in Round 1. If we reach R
 
 **The demo shows the payment flow:** payment request → authorization → payment execution → successful completion. We need it live and as a recording.
 
-**Uploaded before Saturday 12:00:** slides and demo video, to the shared Google Drive folder the organizers send on the day.
+**Uploaded before Saturday 11:00** (moved from 12:00 on Oct 14): slides and demo video, to the team's Google Drive folder the organizers send on the day. What judges have said about pitching is in [WINNERS.md](WINNERS.md#what-the-judges-say-in-their-own-words).
 
 ## The four awards
 
